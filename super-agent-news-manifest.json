@@ -1,0 +1,26 @@
+{
+  "citations": [
+    "[arahi.ai](https://arahi.ai/blog/ai-assistant-for-real-estate-agents)",
+    "[coasty.ai](https://coasty.ai/blog/ai-computer-use-agents-are-killing-real-estate-data-entry)",
+    "[redelegate.app](https://redelegate.app/blog/real-estate-ai-agents-2026-what-works-what-doesnt)",
+    "[blog.google](https://blog.google/technology/ai/introducing-computer-use-in-gemini-3-5-flash/)",
+    "[mit.edu](https://news.mit.edu/2026/what-is-agentic-ai-today-0630)"
+  ],
+  "design_plan": "rng_seed=42; architecture=reuse_comparison_visual_system; aida=checked; hero_lines=2.5; bento_density=grid-auto-flow:dense; labels=audience-specific; button_contrast=black/white pills verified",
+  "generated_at": "2026-07-03T06:53:01.507325+00:00",
+  "headline": "Super for real estate agents managing follow-ups, listings, and scheduling",
+  "site_brief": {
+    "audience": "real estate agents managing follow-ups, listings, and scheduling",
+    "goal": "Create a conversion-focused landing page for this audience. Tie current market evidence to pain points, then show how Super can operate apps and reuse a computer-use cache for repeated work.",
+    "kind": "niche_landing",
+    "queries": [
+      "real estate agents managing follow-ups, listings, and scheduling AI assistant",
+      "real estate agents managing follow-ups, listings, and scheduling personal AI agent",
+      "computer use AI agent",
+      "AI workflow automation"
+    ],
+    "slug": "super-for-real-estate-agents-managing-follow-ups-listings",
+    "title": "Super for real estate agents managing follow-ups, listings, and scheduling"
+  },
+  "summary": "A conversion-focused niche landing page for real estate agents who need instant lead response, reliable follow-ups, listing updates, and showing scheduling \u2014 powered by a personal AI agent that can actually operate computers and reuse a computer-use cache for repeated workflows."
+}
